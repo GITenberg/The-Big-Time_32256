@@ -24,6 +24,8 @@ creator:
 description: "The Big Time (1958) is a short science fiction novel by Fritz Leiber.\
   \ It was awarded the Hugo Award during 1958. The Big Time is a story involving only\
   \ a few characters, but with a vast, cosmic back story.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32256#The-Big-Time
 gutenberg_issued: '2010-05-05'
 gutenberg_type: Text
 identifiers:
